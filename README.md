@@ -1,7 +1,7 @@
 # Kirya343
 Full-stack web developer building scalable and maintainable web applications.
 
-## Backend (Java ecosystem)
+## Backend
 ### Java
 - Spring Boot
   - REST APIs
@@ -15,3 +15,4 @@ Full-stack web developer building scalable and maintainable web applications.
 - React
 - Thymeleaf
 - JavaScript, HTML5, CSS, Sass
+- PHP
