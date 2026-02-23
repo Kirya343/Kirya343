@@ -1,4 +1,4 @@
-# Kirya343.
+# Kirya343
 
 ## Java
 - Spring
