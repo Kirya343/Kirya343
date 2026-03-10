@@ -12,7 +12,9 @@ Full-stack web developer building scalable and maintainable web applications.
 
 ## Frontend
 ### Javascript
-- React
+- React.js
+- Next.js
 - Thymeleaf
 - JavaScript, HTML5, CSS, Sass
+- TypeScript
 - PHP
