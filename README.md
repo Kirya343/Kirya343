@@ -1,25 +1,41 @@
-# Kirya343
+# Kirill Kodolov
 
 Full-stack web developer focused on Java/Spring and React/Next.js.
 
 ## Stack
 
-**Backend**
+**Backend**  
 Java, Spring Boot, Spring Security, JPA/Hibernate, REST, WebSocket/STOMP, RabbitMQ
 
-**Frontend**
+**Frontend**  
 TypeScript, JavaScript, React, Next.js, Vite, HTML5, CSS/SCSS, Thymeleaf
 
-**Databases**
+**Databases**  
 PostgreSQL, MariaDB/MySQL, Redis
 
-**Infrastructure**
+**Infrastructure**  
 Docker, Linux, Nginx, Ansible, Microsoft Azure
 
-**Tools**
-Git, Maven, Gradle
+**Tools**  
+Git, Maven, Gradle, FFmpeg
 
-## Project
+## Projects
+
+### Kai Music
+
+Full-stack real-time music streaming platform built with Java 21, Spring Boot, React, TypeScript and MariaDB. Independently designed, developed and deployed.
+
+- Real-time audio streaming using fragmented MP4, Media Source Extensions (MSE) and WebSocket/STOMP
+- Server-controlled playback synchronization and audio delivery
+- Listening rooms with synchronized playback and multiple listeners
+- Personal and shared playlists with queue management
+- Audio upload, processing and transcoding using FFmpeg
+- Telegram bot integration for uploading audio files
+- Modular backend architecture with separated domain and application layers
+- REST APIs and WebSocket-based communication
+- JPA / Hibernate for database access
+- Docker-based deployment with Nginx and Linux infrastructure
+- Progressive Web App (PWA) support
 
 ### Workswap
 
